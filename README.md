@@ -1,4 +1,4 @@
 # WanshunSu.github.io
 Wanshun Su mainpage
 
-Email:suws0616@gmail.com
+Email: suws0616@gmail.com
